@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --magn-green: #9ec188;
+  --magn-green2: #809c7b;
+  --magn-yellow: #f4b942;
+}
+
+html, body { height: 100%; }
+* { box-sizing: border-box; }
